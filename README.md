@@ -1,5 +1,5 @@
 # CrozWord
-CrozWord is a two player game in which each player has to find hidden words from the grid.
+CrozWord is a two player game in which each player has to find hidden words from the grid.<br />
 Download - https://drive.google.com/open?id=1IOc8vsFqzOt2n_sA1a1VsoCpAc90RHtd<br />
 https://play.google.com/store/apps/details?id=lnmiit.madclub.crozword&hl=en
 
