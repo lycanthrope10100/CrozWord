@@ -1,7 +1,7 @@
 # CrozWord
 CrozWord is a two player game in which each player has to find hidden words from the grid.<br />
-Download - https://drive.google.com/open?id=1IOc8vsFqzOt2n_sA1a1VsoCpAc90RHtd<br />
-https://play.google.com/store/apps/details?id=lnmiit.madclub.crozword&hl=en
+Source Code - https://drive.google.com/open?id=1IOc8vsFqzOt2n_sA1a1VsoCpAc90RHtd<br />
+Release APK - https://play.google.com/store/apps/details?id=lnmiit.madclub.crozword&hl=en
 
 Players take turns making words from a 5x5 board of tiles. Tap letters from anywhere on the board to assemble a word, then tap "SUMBIT" to turn those tiles your color.<br />
 When the player makes every tile on the grid of his/her color, then the player wins.
